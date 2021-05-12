@@ -1,4 +1,5 @@
 #include <iostream>
+#include <WS2tcpip.h>
 
 int main()
 {
